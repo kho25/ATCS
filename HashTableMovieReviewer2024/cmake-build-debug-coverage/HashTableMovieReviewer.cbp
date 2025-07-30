@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HashTableMovieReviewer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experiment">
+				<Option output="/Users/kmorris/Desktop/HashTableMovieReviewer2023/Experiment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 Experiment"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experiment/fast">
+				<Option output="/Users/kmorris/Desktop/HashTableMovieReviewer2023/Experiment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 Experiment/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestHashTable">
+				<Option output="/Users/kmorris/Desktop/HashTableMovieReviewer2023/TestHashTable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 TestHashTable"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestHashTable/fast">
+				<Option output="/Users/kmorris/Desktop/HashTableMovieReviewer2023/TestHashTable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 TestHashTable/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MovieReviews">
+				<Option output="/Users/kmorris/Desktop/HashTableMovieReviewer2023/MovieReviews" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 MovieReviews"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MovieReviews/fast">
+				<Option output="/Users/kmorris/Desktop/HashTableMovieReviewer2023/MovieReviews" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 MovieReviews/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kmorris/Desktop/HashTableMovieReviewer2023/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/WordEntry.cpp">
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/WordEntry.h">
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/experimentmain.cpp">
+			<Option target="Experiment"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/hashmain.cpp">
+			<Option target="TestHashTable"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/moviemain.cpp">
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/shphashtable.cpp">
+			<Option target="TestHashTable"/>
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/shphashtable.h">
+			<Option target="TestHashTable"/>
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/kmorris/Desktop/HashTableMovieReviewer2023/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

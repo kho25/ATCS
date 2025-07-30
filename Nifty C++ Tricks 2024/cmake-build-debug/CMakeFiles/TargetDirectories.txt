@@ -1,0 +1,3 @@
+/Users/Kelly/Desktop/ATCS/Nifty C++ Tricks 2024/cmake-build-debug/CMakeFiles/Nifty_C___Tricks_2024.dir
+/Users/Kelly/Desktop/ATCS/Nifty C++ Tricks 2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Kelly/Desktop/ATCS/Nifty C++ Tricks 2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir

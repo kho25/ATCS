@@ -1,0 +1,3 @@
+/Users/Kelly/Desktop/ATCS/StringStreamExample/cmake-build-debug/CMakeFiles/StringStreamExample.dir
+/Users/Kelly/Desktop/ATCS/StringStreamExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Kelly/Desktop/ATCS/StringStreamExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir

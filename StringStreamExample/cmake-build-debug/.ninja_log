@@ -1,0 +1,6 @@
+# ninja log v6
+936	1002	1730152309497179857	StringStreamExample	f6b2751d7941b453
+22	1018	1730229790984969093	CMakeFiles/StringStreamExample.dir/main.cpp.o	b9921fd5b0125b36
+4	107	1730229956543809066	build.ninja	98a70d6ea820fb34
+25	437	1730230098222920263	CMakeFiles/StringStreamExample.dir/main.cpp.o	8fbec57d01e991cc
+439	468	1730230098636128352	/Users/Kelly/Desktop/ATCS/StringStreamExample/StringStreamExample	22de3ac74d92641d

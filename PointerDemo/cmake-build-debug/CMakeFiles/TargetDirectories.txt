@@ -1,0 +1,3 @@
+/Users/Kelly/Desktop/ATCS/PointerDemo/cmake-build-debug/CMakeFiles/PointerDemo.dir
+/Users/Kelly/Desktop/ATCS/PointerDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Kelly/Desktop/ATCS/PointerDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

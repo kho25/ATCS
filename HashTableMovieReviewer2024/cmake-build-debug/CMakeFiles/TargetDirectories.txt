@@ -1,0 +1,5 @@
+/Users/Kelly/Desktop/ATCS/HashTableMovieReviewer2024/cmake-build-debug/CMakeFiles/Experiment.dir
+/Users/Kelly/Desktop/ATCS/HashTableMovieReviewer2024/cmake-build-debug/CMakeFiles/TestHashTable.dir
+/Users/Kelly/Desktop/ATCS/HashTableMovieReviewer2024/cmake-build-debug/CMakeFiles/MovieReviews.dir
+/Users/Kelly/Desktop/ATCS/HashTableMovieReviewer2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Kelly/Desktop/ATCS/HashTableMovieReviewer2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir

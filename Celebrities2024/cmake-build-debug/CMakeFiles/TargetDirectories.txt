@@ -1,0 +1,3 @@
+/Users/Kelly/Desktop/ATCS/Celebrities2024/cmake-build-debug/CMakeFiles/Celebrities.dir
+/Users/Kelly/Desktop/ATCS/Celebrities2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Kelly/Desktop/ATCS/Celebrities2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
